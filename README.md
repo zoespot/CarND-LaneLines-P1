@@ -2,6 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ---
+![lane lines](test_images_output/output_solidYellowCurve2.jpg)
 ## Pipeline Description
 My pipeline consisted of 4 steps:
 1. Convert color image to gray scale
